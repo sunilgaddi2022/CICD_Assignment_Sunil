@@ -21,7 +21,7 @@ remove exist files in var/www/html<br>
 copy new files from ~ci-cd to /var/www/html<br>
 restart nginx
 
-**lunch a ec2 instance**
+**launch a ec2 instance**
 >sudo apt update<br>
 >sudo apt install nginx<br>
 >sudo pip install GitPython<br>
